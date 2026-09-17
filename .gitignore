@@ -1,0 +1,8 @@
+.DS_Store
+.venv/
+__pycache__/
+*.pyc
+downloads/
+allocation_distributions/
+.dtcc-portal/
+storage-state.json
